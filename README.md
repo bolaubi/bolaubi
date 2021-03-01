@@ -2,7 +2,7 @@ Welcome to **Benedict Laiman's** GitHub Profile Page!
 
 [![HitCount](http://hits.dwyl.com/bolaubi/bolaubi.svg)](http://hits.dwyl.com/bolaubi/bolaubi)
 
-<center><img src="README.assets/tetris_github.gif" width=200 style="margin-right:10px" align="center"/><img src="README.assets/tetris_github.gif" width=200 style="margin-right:10px" align="center"/><img src="README.assets/tetris_github.gif" width=200 style="margin-right:10px" align="center"/></center>
+<center><img src="README.assets/tetris_github.gif" width=200 style="margin-right:10px" align="center"/></center>
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
