@@ -6,7 +6,7 @@ Welcome to **Benedict Laiman's** GitHub Profile Page!
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github-readme-stats.vercel.app/api?username=bolaubi&show_icons=true&title_color=22A7F0&icon_color=22A7F0&text_color=151515&bg_color=ffffff&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bolaubi&layout=compact&hide_border=true&title_color=22A7F0&text_color=151515&bg_color=ffffff) |
+| ![](https://github-readme-stats.vercel.app/api?username=bolaubi&show_icons=true&title_color=20655f&icon_color=20655f&text_color=f8aa27&bg_color=ffffff&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bolaubi&layout=compact&hide_border=true&title_color=20655f&text_color=f8aa27&bg_color=ffffff) |
 
 <a href="https://www.linkedin.com/in/benedict-laiman-60401319a/">
   <img style="margin-right:10px" align="left" alt="Benedict Laiman's Linkedin" width="24px" src="README.assets/linkedin.svg" />
