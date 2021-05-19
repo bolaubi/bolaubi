@@ -1,4 +1,4 @@
-Welcome to **Benedict Laiman's** GitHub Profile Page!
+Welcome to **Benedict Laiman's** GitHub Page!
 
 
 
