@@ -10,8 +10,6 @@ Welcome to **Benedict Laiman's** GitHub Page!
 
 If you would like to support me, please kindly visit my [Saweria Link](https://saweria.co/bolaubi)
 
-<br>
-
 Socials:
 
 <a href="https://www.linkedin.com/in/benedict-laiman-60401319a/">
