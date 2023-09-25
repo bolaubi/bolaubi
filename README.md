@@ -1,12 +1,8 @@
-Welcome to **Benedict Laiman's** GitHub Page!
+Welcome to Benedict's GitHub page!
 
 
 
-
-
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github-readme-stats.vercel.app/api?username=bolaubi&show_icons=true&title_color=20655f&icon_color=20655f&text_color=f8aa27&bg_color=ffffff&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bolaubi&layout=compact&hide_border=true&title_color=20655f&text_color=f8aa27&bg_color=ffffff) |
+![BenedictsGitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=bolaubi&layout=compact&hide_border=true&title_color=20655f&text_color=f8aa27&bg_color=ffffff)
 
 Socials:
 
