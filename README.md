@@ -6,10 +6,7 @@ Welcome to Benedict's GitHub page!
 
 Socials:
 
-<a href="https://www.linkedin.com/in/benedict-laiman-60401319a/">
-  <img style="margin-right:10px" align="left" alt="Benedict Laiman's Linkedin" width="24px" src="README.assets/linkedin.svg" />
-</a>
-</a><a href="https://discordapp.com/users/525654231940857867">
+<a href="https://discordapp.com/users/525654231940857867">
   <img style="margin-right:10px" align="left" alt="Benedict Laiman's Discord Account" width="24px" src="README.assets/discord.svg" />
 </a>
 </a><a href="https://www.kaggle.com/benedictlaiman">
